@@ -1,0 +1,3 @@
+Name: John Doe
+Report Type: MRI
+Conclusions: All Absent.

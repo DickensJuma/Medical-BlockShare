@@ -1,0 +1,22 @@
+{
+  "name": "medical-blockchain",
+  "version": "1.0.0",
+  "description": "build a ethereum blockchain for storing medical files on the IPFS network.",
+  "main": "addFileToIPFS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DickensJuma",
+  "license": "MIT",
+  "dependencies": {
+    "bs58": "^4.0.1",
+    "fs": "0.0.1-security",
+    "ganache-cli": "^6.1.0",
+    "ipfs-mini": "^1.1.2",
+    "sleep": "^5.1.1",
+    "solc": "^0.4.23",
+    "truffle-hdwallet-provider": "0.0.3",
+    "utils": "^0.3.1",
+    "web3": "^1.0.0-beta.34"
+  }
+}

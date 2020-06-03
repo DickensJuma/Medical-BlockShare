@@ -1,0 +1,6 @@
+Date: 04/21/2020
+Doctor: Self
+Name: John Doe
+Age: 72
+Condition: Pathological Liar
+Treatment: None. Asylum recommended.
